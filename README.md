@@ -1,1 +1,1 @@
-# Angela Yu Course's Projects
+# The Complete Full-Stack Web Development Bootcamp Course's Projects
